@@ -1,0 +1,3 @@
+evaluation,sample_size,result,interpretation
+matched_npr_context,25,"one-turn 11; two-turn 10; tie 1; neither 3","No clear human-evaluated benefit from adding a second context turn"
+anthropic_cross_source,10,"TechLIZA 7; base model 3","Preliminary evidence of transfer beyond NPR"

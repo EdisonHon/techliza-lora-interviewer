@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.log
+cloudflared*
+*.zip
+checkpoints/
+outputs/
+data/raw/
+data/processed/

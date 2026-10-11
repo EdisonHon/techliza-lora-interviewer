@@ -1,0 +1,10 @@
+run,epoch,training_loss,validation_loss,mean_token_accuracy
+run1_final_one_turn,1,2.834126,2.948369,0.409124
+run1_final_one_turn,2,2.675556,2.948463,0.412030
+run1_final_one_turn,3,2.618123,2.953432,0.409561
+run2_matched_one_turn,1,2.944816,2.928205,0.409380
+run2_matched_one_turn,2,2.703465,2.926226,0.413552
+run2_matched_one_turn,3,2.686514,2.923068,0.408088
+run2_matched_two_turn,1,2.888060,2.864309,0.427988
+run2_matched_two_turn,2,2.669023,2.846485,0.428177
+run2_matched_two_turn,3,2.628778,2.850207,0.430428
